@@ -1,0 +1,7 @@
+,fc
+degree_centrality,0.09999999999999999
+betweenness_centrality,0.09
+eigenvector_centrality,0.15000000000000002
+pagerank,0.06999999999999999
+core_number,0.15000000000000002
+closeness_centrality,0.14

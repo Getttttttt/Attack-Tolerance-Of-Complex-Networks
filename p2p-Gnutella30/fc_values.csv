@@ -1,0 +1,9 @@
+,fc
+in_degree_centrality,0.01
+out_degree_centrality,0.01
+betweenness_centrality,0.01
+eigenvector_centrality,0.01
+pagerank,0.01
+core_number,0.01
+closeness_centrality,0.01
+katz_centrality,0.01

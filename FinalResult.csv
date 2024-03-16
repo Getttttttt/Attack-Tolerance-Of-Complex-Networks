@@ -1,0 +1,7 @@
+Indicator,p2p-Gnutella04Undirected,p2p-Gnutella05Undirected,p2p-Gnutella06Undirected,p2p-Gnutella08Undirected,p2p-Gnutella09Undirected,p2p-Gnutella24Undirected,p2p-Gnutella25Undirected,p2p-Gnutella30Undirected,p2p-Gnutella31Undirected
+degree_centrality,0.12,0.12,0.12,0.1,0.1,0.07,0.07,0.06,0.06
+betweenness_centrality,0.1,0.1,0.1,0.09,0.08,0.07,0.07,0.07,0.07
+eigenvector_centrality,0.14,0.14,0.13,0.15,0.14,0.08,0.09,0.08,0.08
+pagerank,0.1,0.09,0.09,0.07,0.07,0.05,0.05,0.05,0.05
+core_number,0.14,0.15,0.14,0.15,0.14,0.08,0.09,0.08,0.08
+closeness_centrality,0.14,0.14,0.14,0.14,0.13,0.08,0.09,0.08,0.08
